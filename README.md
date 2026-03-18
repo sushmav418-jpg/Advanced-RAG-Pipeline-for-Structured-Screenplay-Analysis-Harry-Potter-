@@ -1,0 +1,2 @@
+# Advanced-RAG-Pipeline-for-Structured-Screenplay-Analysis-Harry-Potter-
+A production-grade Retrieval-Augmented Generation (RAG) system  Implements layout PDF parsing with DoclingLoader, hybrid BM25+FAISS search with Reciprocal Rank Fusion, cross-encoder re-ranking, query expansion, HyDE, RAG-Fusion, and automated LLM-as-a-Judge evaluation using TruLens. Applied to the Harry Potter and the Sorcerer's Stone screenplay.
